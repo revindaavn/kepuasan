@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991286749356",
+    "project_id": "kepuasanlayanan-e980a",
+    "storage_bucket": "kepuasanlayanan-e980a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991286749356:android:0096c3759af1bbf6af9709",
+        "android_client_info": {
+          "package_name": "com.example.kepuasan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kvgXhcd7Vmhkv82Lv5thyt3vPLEgOdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
